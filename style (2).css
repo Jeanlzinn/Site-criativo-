@@ -1,0 +1,75 @@
+.cabecalho { 
+  padding: 10px 0;
+  align-items: center;
+  justify-content: space-around;
+  color: red;
+  display: flex;
+  background-color: #150808
+  
+}
+
+.cabecalho-imagem {
+  width: 40%;
+  
+  
+}
+
+.cabecalho-lista-item { 
+  font-size: 10px;
+  margin: 0 5px;
+  display: inline-block;
+  
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.Garena-imagem{
+  margin: 0 10px;
+  width: 37%;}
+  
+.Garena{padding: 70px 0;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  display: flex;
+  background-image: linear-gradient(#150808,#6F1616)}
+  
+  .Garena-titulo{margin: 0 70px;
+    padding: 24px 0;
+    color: red}
+  
+  .Garena-div-conteudo{
+    width: 65%}
+    
+    .Garena-titulo-dois{
+      color: red;
+      padding: 24px 0;
+      margin: 0 70px;}
+  
+    .Garena-texto-um{margin: 0 20px;}
+    .Garena-texto-dois{margin: 0 20px;}
+    
+  .Garena-dois{
+    text-align: center;
+    padding: 50px 0;
+    align-items: center;
+    justify-content: space-around;
+    display: inline-flexbox;
+    background-color: #6F1616;}  
+ 
+  .texto-div{color: white;
+    text-align: center;
+   
+    
+  }
+  
+ .fundador-imagem{text-align: center;}
+ 
+ .rodape{text-align: center;
+   background-color: #150808;}
+   
+ .rodape-imagem{padding: 12px 0;
+   height: 60px}
